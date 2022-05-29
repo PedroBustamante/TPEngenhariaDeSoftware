@@ -3,6 +3,7 @@ Trabalho Prático de Engenharia de Software II, UFMG
 
 ## Membros
 - Pedro Rios Bustamante
+- Pedro Andrade Militão
 - Raphael Heringer Rangel
 - Vitor Akira A Morishita
 
